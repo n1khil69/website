@@ -26,15 +26,15 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <Container>
-      <Heading>Hi, I'm Nikhil.</Heading>
+      <Heading>Hi, I'm Nikhil Sharma.</Heading>
       <P style={{ marginTop: '1rem' }}>
-        A 21 year old designer and developer from India.
+        A 22 year old designer and developer from India.
       </P>
       <P>
         I love creating things that people want.
       </P>
       <P>
-        I’m also into security, pentesting and Linux administration. I enjoy making bots for the discord community.
+        I’m currently learning DevOps Technology but I'm into Python and wannabe Data Scientist, feel free to reach me out!
       </P>
       <SocialItems />
     </Container>

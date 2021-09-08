@@ -13,21 +13,21 @@ export default [
   {
     title: 'GitHub',
     icon: <IoLogoGithub />,
-    href: 'https://github.com/n1kh1l1337',
+    href: 'https://github.com/n1khil69',
   },
-  /*{
+  {
     title: 'Linkedin',
     icon: <IoLogoLinkedin />,
-    href: 'https://www.linkedin.com/in/someshkar/',
-  },*/
+    href: 'https://www.linkedin.com/in/n1khil/',
+  },
   {
     title: 'Instagram',
     icon: <IoLogoInstagram />,
-    href: 'https://www.instagram.com/n1kh1l1337/',
+    href: 'https://www.instagram.com/n1kftw_/',
   },
   {
     title: 'Email',
     icon: <IoIosMail />,
-    href: 'mailto:contact@niki.wtf',
+    href: 'mailto:er.n1kh1l@outlook.com',
   }
 ]
